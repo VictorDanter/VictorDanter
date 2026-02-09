@@ -5,11 +5,10 @@ Engenharia de Software - Estácio
 --------------------------------
 
 ✅ Python <br>
-✅ Java <br>
-✅ HTML <br>
-✅ React.js <br>
+✅ Django <br>
 ✅ JavaScript <br>
-✅ CSS3 <br>
+✅ Node.js <br>
+✅ React.js <br>
 ✅ MySQL
 
 ### Skills
